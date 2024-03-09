@@ -1,0 +1,5 @@
+alim 3
+saik 2
+hasan 1
+jasf 1
+er 0
